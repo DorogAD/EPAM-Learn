@@ -20,8 +20,6 @@ blabla is a tandem repetition
 import re
 import sys
 
-output = []
-
 pattern = r'\b(\w+)\1\b'
 
 for line in sys.stdin:
