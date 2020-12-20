@@ -41,3 +41,4 @@ with open('result.txt', 'a') as f:
     for i in result_list:
         f.write(i)
         f.write('\n')
+
